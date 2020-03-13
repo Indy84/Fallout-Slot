@@ -1,0 +1,7 @@
+F:\Fallout Slot\Fallout Slot\Fallout Slot\bin\Debug\Fallout Slot.exe.config
+F:\Fallout Slot\Fallout Slot\Fallout Slot\bin\Debug\Fallout Slot.exe
+F:\Fallout Slot\Fallout Slot\Fallout Slot\bin\Debug\Fallout Slot.pdb
+F:\Fallout Slot\Fallout Slot\Fallout Slot\obj\Debug\Fallout Slot.csprojAssemblyReference.cache
+F:\Fallout Slot\Fallout Slot\Fallout Slot\obj\Debug\Fallout Slot.csproj.CoreCompileInputs.cache
+F:\Fallout Slot\Fallout Slot\Fallout Slot\obj\Debug\Fallout Slot.exe
+F:\Fallout Slot\Fallout Slot\Fallout Slot\obj\Debug\Fallout Slot.pdb
